@@ -1,0 +1,10 @@
+.env
+venv/
+__pycache__/
+*.pyc
+data/mem0_qdrant/
+*.db
+.DS_Store
+
+# Contains absolute local paths — use mcp.json.example as the shared template.
+.cursor/mcp.json

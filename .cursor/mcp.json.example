@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "M4-Agent": {
+      "command": "/ABSOLUTE/PATH/TO/M4-MCP-Agent/venv/bin/python",
+      "args": [
+        "/ABSOLUTE/PATH/TO/M4-MCP-Agent/server.py"
+      ]
+    }
+  }
+}
